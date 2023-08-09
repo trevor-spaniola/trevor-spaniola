@@ -7,6 +7,6 @@
 <p align=center><strong>Welcome to my GitHub!</strong></p>
 
 
-- 🔭 Currently crafting Go, Bash, Python, and Powershell security scripts & applications.
-- 🌱 Learning web application development, to help with my web application pentesting.
-- 💬 Passionate about cybersecurity, technology, history, sociology, and anthropology.
+- 🔭 Currently crafting Go, Bash, Python, and PowerShell security scripts & applications.
+- 🏢 Proudly securing organizations with Security Overview.
+- 💬 Passionate about cybersecurity, technology, history, and my cats.
