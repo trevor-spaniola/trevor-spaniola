@@ -1,4 +1,4 @@
-<h2 align=center> ⚔️ Trevor Arthur ⚔️ </h2>
+<h2 align=center>🔷 Trevor Arthur 🔷</h2>
 
 <p align=center>
   <img src="/security-overview.png" width=350px alt="Security Overview">
