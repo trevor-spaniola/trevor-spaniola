@@ -1,4 +1,4 @@
-<p align=center>🔷 <strong>Trevor Arthur</strong> 🔷</p>
+<p align=center>🔷 <strong>Trevor Spaniola</strong> 🔷</p>
 
 <p align=center>
   <img src="/security-overview.png" width=350px alt="Security Overview">
